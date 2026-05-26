@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorupdate",
+        "uuid": 8940836,
+        "checksum": "u1sxlb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
